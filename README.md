@@ -9,6 +9,12 @@ A study reference covering the full web development stack: from how the internet
 - **Part 4** — Alphabetical glossary of terms.
 - **Part 5** — Curated resources for further learning, especially distributed web applications.
 
+## Start here: the web is a request-and-response system
+
+A person uses a browser; the browser asks a server for resources; the server may read or change data; the browser turns the response into an interface. Everything else in web development is a layer in that path.
+
+Read from broad to specific: **internet, DNS, HTTP, and browser** → **HTML, CSS, and JavaScript** → **server and database** → **frameworks and deployment**. Use the quick-reference sections only after the broader flow feels familiar.
+
 ---
 
 ## Part 1 — Summaries
