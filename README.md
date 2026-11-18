@@ -17,6 +17,14 @@ Read from broad to specific: **internet, DNS, HTTP, and browser** → **HTML, CS
 
 ---
 
+## Try it safely
+
+**Predict:** what should happen before you act.  
+**Try:** use a local, reversible example.  
+**Explain:** describe the result in your own words.
+
+Open browser developer tools on a page you own or a simple local HTML file. Predict which files the browser needs to render the page, then inspect the Network panel and connect each request to HTML, CSS, JavaScript, image, or API data.
+
 ## Part 1 — Summaries
 
 ### 1. Introduction to Web Programming
